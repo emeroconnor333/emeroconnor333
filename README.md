@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💕, I'm Emer</h1>
+<h1 align="center">Hi, I'm Emer 💕</h1>
 <h3 align="center">I'm a student passionate about software and design.</h3>
 
 - 🎓 I’m studying [Immersive Software Engineering](https://software-engineering.ie/why-immersive-software-engeneering/)
