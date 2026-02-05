@@ -3,7 +3,7 @@
 
 - 🎓 I’m studying [Immersive Software Engineering](https://software-engineering.ie/why-immersive-software-engeneering/)
 
-- 💼 I’m currently interning at [AWS](https://aws.amazon.com/)
+- 💼 6 month intern at [AWS](https://aws.amazon.com/)
 
 - 🤖 I’m part of the organising team for [Hack Europe 2026](https://www.hackeurope.eu/)
 
