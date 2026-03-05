@@ -5,7 +5,7 @@
   <pre style="font-family: 'Inconsolata', monospace; display: inline-block; text-align: left;">
 course = "ISE 2nd Year"
 prev_internships = ["AWS"]
-current_project = "Hack Europe Head of Design"
+current_projects = ["Hack Europe Head of Design", "ISE Website Redesign"]
 skills = ["java", "typescript", "react", "figma"]
 interests = ["crochet", "sewing", "literary fiction"]
   </pre>
