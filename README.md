@@ -6,7 +6,7 @@
 course = "ISE 2nd Year"
 prev_internships = ["AWS"]
 current_projects = ["Hack Europe Head of Design", "ISE Website Redesign"]
-skills = ["java", "typescript", "react", "figma"]
+skills = ["java", "python", "typescript", "react", "figma"]
 interests = ["crochet", "sewing", "literary fiction"]
   </pre>
   
