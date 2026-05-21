@@ -13,7 +13,7 @@ interests = ["crochet", "sewing", "literary fiction"]
   <br>
   
   <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Jteml6cGFwczdhNWgxY2wyMHZjM21reWxvZnF0Ym9ycTNjNTNzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XI4VDVtiHrqw7PfvdV/giphy.gif"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZyYW90djQ4Ym1ra2psb3RjcXo1Zm50NzR3bjhhanYyM2I3Ym4zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xl0oVz3eb9mfu/giphy.gif"
     alt="animated gif"
   />
 </div>
