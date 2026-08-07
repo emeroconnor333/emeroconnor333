@@ -4,7 +4,7 @@
   
   <pre style="font-family: 'Inconsolata', monospace; display: inline-block; text-align: left;">
 course = "ISE 2nd Year"
-internships = ["AWS", "Stripe (incoming)"]
+internships = ["AWS", "Stripe"]
 current_projects = ["Hack Europe Head of Design", "Give(a)Go Branding"]
 skills = ["java", "python", "typescript", "react", "figma"]
 interests = ["crochet", "sewing", "literary fiction"]
